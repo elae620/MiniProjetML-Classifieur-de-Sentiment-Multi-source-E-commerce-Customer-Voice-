@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Tests & Couverture
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Fichiers volumineux & Binaires
+bin/
+*.exe
+*.dll
+
+# Archives (exclu à la demande de l'utilisateur)
+*.zip
+projet_sentiment.zip
+
+# Variables d'environnement locales
+.env
+
+# Fichiers temporaires OS & IDE
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
